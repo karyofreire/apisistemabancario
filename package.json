@@ -1,0 +1,26 @@
+{
+  "name": "apisistemabancario",
+  "version": "1.0.0",
+  "description": "API para um banco digital criada como desafio do Módulo II do curso de Desenvolvimento Back-End da Cubos Acabemy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karyofreire/apisistemabancario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karyofreire/apisistemabancario/issues"
+  },
+  "homepage": "https://github.com/karyofreire/apisistemabancario#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
